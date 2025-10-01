@@ -1,0 +1,3 @@
+date	size'/'remotesize	flags(request:Update,Range state:File response:Modified,Chunked,gZipped)	statuscode	status ('servermsg')	MIME	Etag|Date	URL	localfile	(from URL)
+10:17:41	116/116	---MCZ	200	added ('OK')	text/plain	date:Fri,%2001%20Aug%202025%2014:17:41%20GMT	https://trustwallet.com/robots.txt		(from )
+10:17:42	9028/9028	---MCZ	403	error ('Forbidden')	text/html	date:Fri,%2001%20Aug%202025%2014:17:42%20GMT	https://trustwallet.com/	./trustwallet.com/index.html	(from )
